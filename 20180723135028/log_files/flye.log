@@ -1,0 +1,55 @@
+START METHODS PRINTING
+description: Flye uses A-Bruijn graphs to assemble long error-prone reads. To do so, it follows arbitrary paths through the assembly graph and constructs new assembly graphs from these paths.
+versions:
+  flye: 2.3.4-release
+END METHODS PRINTING
+[2018-07-17 23:31:34] INFO: Running Flye 2.3.4-release
+[2018-07-17 23:31:34] INFO: Assembling reads
+[2018-07-17 23:31:34] INFO: Running with k-mer size: 15
+[2018-07-17 23:31:34] INFO: Reading sequences
+[2018-07-17 23:31:35] INFO: Reads N50/90: 63122 / 18363
+[2018-07-17 23:31:35] INFO: Selected minimum overlap 5000
+[2018-07-17 23:31:35] INFO: Expected read coverage: 7
+[2018-07-17 23:31:35] INFO: Generating solid k-mer index
+[2018-07-17 23:31:50] INFO: Counting kmers (1/2):
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2018-07-17 23:31:52] INFO: Counting kmers (2/2):
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2018-07-17 23:31:55] INFO: Filling index table
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2018-07-17 23:31:59] INFO: Extending reads
+[2018-07-17 23:32:15] INFO: Overlap-based coverage: 5
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2018-07-17 23:32:18] INFO: Assembled 6 draft contigs
+[2018-07-17 23:32:18] INFO: Generating contig sequences
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2018-07-17 23:33:00] INFO: Running Minimap2
+[2018-07-17 23:33:09] INFO: Computing consensus
+[2018-07-17 23:33:54] INFO: Alignment error rate: 0.210209758895
+[2018-07-17 23:33:54] INFO: Performing repeat analysis
+[2018-07-17 23:33:54] INFO: Reading sequences
+[2018-07-17 23:33:55] INFO: Building repeat graph
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2018-07-17 23:34:13] INFO: Aligning reads to the graph
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2018-07-17 23:34:40] INFO: Aligned sequence: 66666932 / 69066566 (0.965256)
+[2018-07-17 23:34:40] INFO: Mean edge coverage: 7
+[2018-07-17 23:34:40] INFO: Resolving repeats
+[2018-07-17 23:34:40] INFO: Generating contigs
+[2018-07-17 23:34:41] INFO: Generated 7 contigs
+[2018-07-17 23:34:42] INFO: Polishing genome (1/1)
+[2018-07-17 23:34:42] INFO: Running Minimap2
+[2018-07-17 23:34:50] INFO: Separating alignment into bubbles
+[2018-07-17 23:35:28] INFO: Alignment error rate: 0.169555471151
+[2018-07-17 23:35:28] INFO: Correcting bubbles
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2018-07-17 23:38:14] INFO: Assembly statistics:
+
+	Total length:	4589383
+	Contigs:	3
+	Scaffolds:	3
+	Scaffolds N50:	3342699
+	Largest scf:	3342699
+	Mean coverage:	6
+
+[2018-07-17 23:38:14] INFO: Final assembly: /mnt/testscratch/lanno001/poreTally_ecoli_2018060717/assembler_results/flye/scaffolds.fasta

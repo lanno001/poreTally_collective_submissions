@@ -1,0 +1,15 @@
+Jellyfish:
+  all_sections:
+    canu.count: /mnt/testscratch/lanno001/poreTally_ecoli_2018060717/analysis/summary/jellyfish/canu.count
+    flye.count: /mnt/testscratch/lanno001/poreTally_ecoli_2018060717/analysis/summary/jellyfish/flye.count
+    minimap2_miniasm.count: /mnt/testscratch/lanno001/poreTally_ecoli_2018060717/analysis/summary/jellyfish/minimap2_miniasm.count
+    minimap2_miniasm_nanopolish.count: /mnt/testscratch/lanno001/poreTally_ecoli_2018060717/analysis/summary/jellyfish/minimap2_miniasm_nanopolish.count
+    reference.count: /mnt/testscratch/lanno001/poreTally_ecoli_2018060717/analysis/summary/jellyfish/reference.count
+    smartdenovo.count: /mnt/testscratch/lanno001/poreTally_ecoli_2018060717/analysis/summary/jellyfish/smartdenovo.count
+QUAST:
+  all_sections:
+    canu: /mnt/testscratch/lanno001/poreTally_ecoli_2018060717/analysis/summary/quast/report.tsv
+    flye: /mnt/testscratch/lanno001/poreTally_ecoli_2018060717/analysis/summary/quast/report.tsv
+    minimap2_miniasm: /mnt/testscratch/lanno001/poreTally_ecoli_2018060717/analysis/summary/quast/report.tsv
+    minimap2_miniasm_nanopolish: /mnt/testscratch/lanno001/poreTally_ecoli_2018060717/analysis/summary/quast/report.tsv
+    smartdenovo: /mnt/testscratch/lanno001/poreTally_ecoli_2018060717/analysis/summary/quast/report.tsv
