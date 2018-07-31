@@ -1,0 +1,15 @@
+Jellyfish:
+  all_sections:
+    canu.count: /mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180730/analysis/summary/jellyfish/canu.count
+    flye.count: /mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180730/analysis/summary/jellyfish/flye.count
+    minimap2_miniasm.count: /mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180730/analysis/summary/jellyfish/minimap2_miniasm.count
+    minimap2_miniasm_raconX2.count: /mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180730/analysis/summary/jellyfish/minimap2_miniasm_raconX2.count
+    reference.count: /mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180730/analysis/summary/jellyfish/reference.count
+    smartdenovo.count: /mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180730/analysis/summary/jellyfish/smartdenovo.count
+QUAST:
+  all_sections:
+    canu: /mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180730/analysis/summary/quast/report.tsv
+    flye: /mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180730/analysis/summary/quast/report.tsv
+    minimap2_miniasm: /mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180730/analysis/summary/quast/report.tsv
+    minimap2_miniasm_raconX2: /mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180730/analysis/summary/quast/report.tsv
+    smartdenovo: /mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180730/analysis/summary/quast/report.tsv

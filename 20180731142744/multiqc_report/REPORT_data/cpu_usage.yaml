@@ -1,0 +1,35 @@
+canu:
+  I/O in (MB/s): 892.73
+  I/O out (MB/s): 957.73
+  Wall time: '4:53:37'
+  mean CPU load (MB): 0.0
+  peak PSS (MB): 13087.29
+  peak USS (MB): 13085.94
+flye:
+  I/O in (MB/s): 290.72
+  I/O out (MB/s): 1318.33
+  Wall time: 0:06:46
+  mean CPU load (MB): 0.0
+  peak PSS (MB): 5136.01
+  peak USS (MB): 5135.7
+minimap2_miniasm:
+  I/O in (MB/s): 0.0
+  I/O out (MB/s): 0.0
+  Wall time: 0:00:27
+  mean CPU load (MB): 0.0
+  peak PSS (MB): 30.18
+  peak USS (MB): 27.49
+minimap2_miniasm_raconX2:
+  I/O in (MB/s): 12.02
+  I/O out (MB/s): 33.05
+  Wall time: 0:01:00
+  mean CPU load (MB): 0.0
+  peak PSS (MB): 147.25
+  peak USS (MB): 147.13
+smartdenovo:
+  I/O in (MB/s): 13.38
+  I/O out (MB/s): 11.04
+  Wall time: 0:04:06
+  mean CPU load (MB): 0.0
+  peak PSS (MB): 364.43
+  peak USS (MB): 364.27

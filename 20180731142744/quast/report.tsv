@@ -1,0 +1,49 @@
+Assembly	minimap2_miniasm	minimap2_miniasm_raconX2	smartdenovo	flye	canu
+# contigs (>= 0 bp)	9	9	9	3	8
+# contigs (>= 1000 bp)	9	9	9	3	8
+# contigs (>= 5000 bp)	9	9	9	3	8
+# contigs (>= 10000 bp)	9	9	9	3	8
+# contigs (>= 25000 bp)	9	9	9	3	8
+# contigs (>= 50000 bp)	9	9	9	3	8
+Total length (>= 0 bp)	2501367	2617918	2864657	4651446	2937039
+Total length (>= 1000 bp)	2501367	2617918	2864657	4651446	2937039
+Total length (>= 5000 bp)	2501367	2617918	2864657	4651446	2937039
+Total length (>= 10000 bp)	2501367	2617918	2864657	4651446	2937039
+Total length (>= 25000 bp)	2501367	2617918	2864657	4651446	2937039
+Total length (>= 50000 bp)	2501367	2617918	2864657	4651446	2937039
+# contigs	9	9	9	3	8
+Largest contig	1161677	1222798	1198565	3558995	620192
+Total length	2501367	2617918	2864657	4651446	2937039
+Reference length	4641652	4641652	4641652	4641652	4641652
+Reference GC (%)	50.79	50.79	50.79	50.79	50.79
+N50	303115	316869	458062	3558995	514572
+NG50	116607	137635	194655	3558995	311341
+N75	187752	193511	204037	3558995	311341
+NG75	-	-	-	3558995	-
+L50	2	2	2	1	3
+LG50	8	7	6	1	5
+L75	4	4	5	1	5
+LG75	-	-	-	1	-
+# misassemblies	0	1	0	0	0
+# misassembled contigs	0	1	0	0	0
+Misassembled contigs length	0	193511	0	0	0
+# local misassemblies	0	2	0	6	15
+# unaligned mis. contigs	1	0	0	0	0
+# unaligned contigs	3 + 6 part	0 + 0 part	4 + 5 part	0 + 3 part	0 + 2 part
+Unaligned length	2426352	0	2858255	39866	4146
+Genome fraction (%)	1.687	57.392	0.143	99.649	65.881
+Duplication ratio	0.958	0.983	0.963	0.997	0.959
+# N's per 100 kbp	0.00	0.00	0.00	0.00	0.00
+# mismatches per 100 kbp	3335.08	520.47	3581.64	882.77	479.24
+# indels per 100 kbp	4226.65	1520.16	3521.44	1643.08	2475.20
+# genes	82 + 5 part	2514 + 15 part	3 + 3 part	4293 + 9 part	2855 + 28 part
+Largest alignment	61053	1222798	1993	3557613	620156
+Total aligned length	75015	2617445	6402	4611580	2932146
+NA50	-	316510	-	3557613	514571
+NGA50	-	137614	-	3557613	311283
+NA75	-	148067	-	3557613	311283
+NGA75	-	-	-	3557613	-
+LA50	-	2	-	1	3
+LGA50	-	7	-	1	5
+LA75	-	5	-	1	5
+LGA75	-	-	-	1	-

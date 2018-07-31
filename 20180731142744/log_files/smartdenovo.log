@@ -1,0 +1,83 @@
+START METHODS PRINTING
+description: SMARTdenovo is a long read OLC assembly pipeline that was originally intended to work with PacBio reads, but has been shown to produce assemblies of reasonably high continuity from MinION reads as well.
+versions:
+  smartdenovo: 1.0.0
+END METHODS PRINTING
+/mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180730/envs/.snakemake/conda/1c428298/bin/wtpre -J 5000 /mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180730/all_reads.fastq | gzip -c -1 > smartdenovo_assembly.fa.gz
+/mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180730/envs/.snakemake/conda/1c428298/bin/wtzmo -t 8 -i smartdenovo_assembly.fa.gz -fo smartdenovo_assembly.dmo.ovl -k 16 -z 10 -Z 16 -U -1 -m 0.1 -A 1000
+[Mon Jul 30 15:00:24 2018] loading long reads
+[Mon Jul 30 15:00:24 2018] Done, 833 reads (length >= 0)
+[Mon Jul 30 15:00:24 2018] sorted sequences by length dsc
+[Mon Jul 30 15:00:24 2018] calculating overlaps, 8 threads
+[Mon Jul 30 15:00:24 2018] indexing 1/1
+[Mon Jul 30 15:00:24 2018] - scanning kmers (16 bp)
+0833 reads
+[Mon Jul 30 15:00:26 2018] - high frequency kmer depth is set to 100
+[Mon Jul 30 15:00:26 2018] - average kmer depth = 2
+[Mon Jul 30 15:00:26 2018] - 27 high frequency kmers (>=100)
+[Mon Jul 30 15:00:26 2018] - indexing 1438045 kmers
+0833 reads
+[Mon Jul 30 15:00:27 2018] Done
+[Mon Jul 30 15:00:27 2018] querying 1/1
+000000000000	0000000000100	7352000000000200	10794000000000300	12330000000000400	13061000000000500	13427000000000600	13610000000000700	13697000000000800	13720progress: 833 13727 100.00%, 1754.34 CPU seconds
+[Mon Jul 30 15:04:02 2018] Done
+/mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180730/envs/.snakemake/conda/1c428298/bin/wtclp -i smartdenovo_assembly.dmo.ovl -fo smartdenovo_assembly.dmo.obt -d 3 -k 300 -m 0.1 -FT
+[Mon Jul 30 15:04:02 2018] loading alignments
+[Mon Jul 30 15:04:02 2018] 0[Mon Jul 30 15:04:02 2018] 11434
+[Mon Jul 30 15:04:02 2018] Done, 817 reads, 11434 overlaps
+[Mon Jul 30 15:04:02 2018] clipping based on overlap depth
+Before: legal overlaps = 4233
+After:  legal overlaps = 2175
+[Mon Jul 30 15:04:02 2018] Done
+0 reads were filtered by connection-checking
+18 reads were truncated by chimera-checking
+legal overlaps = 2182
+[Mon Jul 30 15:04:02 2018] Done
+--------------------------------
+== Message for debug ==
+Sequence coverage statistic:
+       12407       78376      186681      295487      416811      446989      453838      349546      219295      126750
+       48088        6228           0           0           0           0           0           0           0           0
+           0           0           0           0           0           0           0           0           0           0
+           0           0           0           0           0           0           0           0           0           0
+           0           0           0           0           0           0           0           0           0           0
+           0           0           0           0           0           0           0           0           0           0
+           0           0           0           0           0           0           0           0           0           0
+           0           0           0           0           0           0           0           0           0           0
+           0           0           0           0           0           0           0           0           0           0
+           0           0           0           0           0           0           0           0           0           0
+
+Total aviable sequences: 17124521 bp
+Average Coverage(?):     7
+Genome Size(?):          2446360 bp
+--------------------------------
+[Mon Jul 30 15:04:02 2018] output
+[Mon Jul 30 15:04:02 2018] Done
+/mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180730/envs/.snakemake/conda/1c428298/bin/wtlay -i smartdenovo_assembly.fa.gz -b smartdenovo_assembly.dmo.obt -j smartdenovo_assembly.dmo.ovl -fo smartdenovo_assembly.dmo.lay -w 300 -s 200 -m 0.1 -r 0.95 -c 1
+[Mon Jul 30 15:04:02 2018] loading reads
+[Mon Jul 30 15:04:03 2018] Done, 833 reads
+[Mon Jul 30 15:04:03 2018] loading reads obt information
+[Mon Jul 30 15:04:03 2018] Done
+[Mon Jul 30 15:04:03 2018] loading alignments
+loaded 3624 overlaps
+building edges
+0 overlaps2014 fine overlaps
+[Mon Jul 30 15:04:03 2018] Done
+[Mon Jul 30 15:04:03 2018] calculating edge coverage ...
+[Mon Jul 30 15:04:03 2018] removed 36 duplicate edges
+[Mon Jul 30 15:04:03 2018] Done
+[Mon Jul 30 15:04:03 2018] masked 373 contained reads
+[Mon Jul 30 15:04:03 2018] masked 38 low coverage (<1) edges
+[Mon Jul 30 15:04:03 2018] 'best_overlap' cut 1209 non-best edges
+11 tips, 7 bubbles, 0 chimera, 7 non-bog, 1 recoveries
+[Mon Jul 30 15:04:03 2018] repair 26 bog elements
+0 tips, 0 bubbles, 0 chimera, 0 non-bog, 0 recoveries
+[Mon Jul 30 15:04:03 2018] generated 87 unitigs
+[Mon Jul 30 15:04:03 2018] recovered 6 edges inter unitigs
+5 tips, 0 bubbles, 0 chimera, 0 non-bog, 0 recoveries
+[Mon Jul 30 15:04:03 2018] repair 5 bog elements
+0 tips, 0 bubbles, 0 chimera, 0 non-bog, 0 recoveries
+[Mon Jul 30 15:04:03 2018] generated 90 unitigs
+[Mon Jul 30 15:04:03 2018] recover 0 edges inter unitigs
+[Mon Jul 30 15:04:03 2018] output 9 independent unitigs
+[Mon Jul 30 15:04:03 2018] Done
