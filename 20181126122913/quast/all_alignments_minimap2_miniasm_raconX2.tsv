@@ -1,0 +1,23 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+3685339	3949360	258471	73	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	utg000001l_LN_i_258475_RC_i_70_XC_f_1.000000	96.72		True
+CONTIG	utg000001l_LN_i_258475_RC_i_70_XC_f_1.000000	258475	correct
+498497	645777	1	144674	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	utg000002l_LN_i_144674_RC_i_55_XC_f_1.000000	97.35		True
+CONTIG	utg000002l_LN_i_144674_RC_i_55_XC_f_1.000000	144674	correct
+2052594	2097661	44316	75	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	utg000003l_LN_i_193496_RC_i_55_XC_f_1.000000	97.27		True
+relocation, inconsistency = 3883
+1896897	2048703	193496	44324	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	utg000003l_LN_i_193496_RC_i_55_XC_f_1.000000	97.33		True
+CONTIG	utg000003l_LN_i_193496_RC_i_55_XC_f_1.000000	193496	misassembled
+4407881	4542297	131610	9	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	utg000004l_LN_i_131610_RC_i_37_XC_f_1.000000	96.75		True
+CONTIG	utg000004l_LN_i_131610_RC_i_37_XC_f_1.000000	131610	correct
+1096961	1259594	160509	360	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	utg000005l_LN_i_316975_RC_i_98_XC_f_0.998423	97.89		True
+local misassembly
+938412	1097140	316956	160510	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	utg000005l_LN_i_316975_RC_i_98_XC_f_0.998423	97.81		True
+CONTIG	utg000005l_LN_i_316975_RC_i_98_XC_f_0.998423	316975	correct
+2267349	3365292	1	1080420	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	utg000006l_LN_i_1234622_RC_i_317_XC_f_1.000000	97.74		True
+local misassembly
+3365554	3522582	1080421	1234622	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	utg000006l_LN_i_1234622_RC_i_317_XC_f_1.000000	97.23		True
+CONTIG	utg000006l_LN_i_1234622_RC_i_317_XC_f_1.000000	1234622	correct
+780289	920411	22	137635	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	utg000007l_LN_i_137635_RC_i_39_XC_f_1.000000	97.39		True
+CONTIG	utg000007l_LN_i_137635_RC_i_39_XC_f_1.000000	137635	correct
+3966391	4117682	1	148058	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	utg000008l_LN_i_148067_RC_i_44_XC_f_1.000000	96.66		True
+CONTIG	utg000008l_LN_i_148067_RC_i_44_XC_f_1.000000	148067	correct

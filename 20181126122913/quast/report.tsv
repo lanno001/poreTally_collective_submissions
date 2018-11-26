@@ -1,0 +1,51 @@
+Assembly	minimap2_miniasm_raconX2	smartdenovo	minimap2_miniasm	flye	canu
+# contigs (>= 0 bp)	8	9	8	7	8
+# contigs (>= 1000 bp)	8	9	8	7	8
+# contigs (>= 5000 bp)	8	9	8	7	8
+# contigs (>= 10000 bp)	8	9	8	7	8
+# contigs (>= 25000 bp)	8	9	8	7	8
+# contigs (>= 50000 bp)	8	9	8	7	8
+Total length (>= 0 bp)	2565554	2864657	2452059	5280394	2937032
+Total length (>= 1000 bp)	2565554	2864657	2452059	5280394	2937032
+Total length (>= 5000 bp)	2565554	2864657	2452059	5280394	2937032
+Total length (>= 10000 bp)	2565554	2864657	2452059	5280394	2937032
+Total length (>= 25000 bp)	2565554	2864657	2452059	5280394	2937032
+Total length (>= 50000 bp)	2565554	2864657	2452059	5280394	2937032
+# contigs	8	9	8	7	8
+Largest contig	1234622	1198565	1173246	1304399	620173
+Total length	2565554	2864657	2452059	5280394	2937032
+Reference length	4641652	4641652	4641652	4641652	4641652
+Reference GC (%)	50.79	50.79	50.79	50.79	50.79
+N50	316975	458062	303115	1121704	514572
+NG50	137635	194655	132154	1229610	311343
+N75	193496	204037	187752	1089918	311343
+NG75	-	-	-	1121704	-
+L50	2	2	2	3	3
+LG50	7	6	7	2	5
+L75	4	5	4	4	5
+LG75	-	-	-	3	-
+# misassemblies	1	0	0	6	0
+# misassembled contigs	1	0	0	4	0
+Misassembled contigs length	193496	0	0	3895459	0
+# local misassemblies	2	0	0	335	47
+# scaffold gap ext. mis.	0	0	0	0	0
+# scaffold gap loc. mis.	0	0	0	0	0
+# unaligned mis. contigs	0	9	8	1	0
+# unaligned contigs	0 + 0 part	0 + 9 part	0 + 8 part	0 + 7 part	0 + 1 part
+Unaligned length	0	2607885	2263165	424273	18655
+Genome fraction (%)	56.234	5.532	4.070	99.840	65.486
+Duplication ratio	0.983	1.000	1.000	1.048	0.960
+# N's per 100 kbp	0.00	0.00	0.00	0.00	0.00
+# mismatches per 100 kbp	467.59	2748.35	2767.01	1121.85	448.97
+# indels per 100 kbp	1534.62	0.00	5.29	2036.96	2645.96
+# genomic features	2477 + 14 part	1 + 285 part	1 + 216 part	4304 + 7 part	2838 + 26 part
+Largest alignment	1234622	193	207	1042945	620094
+Total aligned length	2564981	256772	188894	4855700	2915298
+NA50	316597	-	-	994710	514571
+NGA50	137614	-	-	994710	309279
+NA75	149173	-	-	377861	309279
+NGA75	-	-	-	711340	-
+LA50	2	-	-	3	3
+LGA50	7	-	-	3	5
+LA75	4	-	-	5	5
+LGA75	-	-	-	4	-

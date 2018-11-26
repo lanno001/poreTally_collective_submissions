@@ -1,0 +1,998 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+3945720	4296322	63	346304	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	96.39		True
+local misassembly
+4296434	4641652	346305	687547	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	96.66		True
+fake: not a misassembly [linear representation of circular genome]
+1	358057	687548	1040103	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	95.71		True
+local misassembly
+361518	361598	1043144	1043224	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	100.0		True
+local misassembly
+363649	363714	1045244	1045309	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	92.42		True
+local misassembly
+364498	364574	1046058	1046134	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	98.7		True
+local misassembly
+366209	366319	1047727	1047837	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	96.4		True
+local misassembly
+368271	368353	1049707	1049789	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	98.8		True
+local misassembly
+368747	368823	1050167	1050243	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	94.81		True
+local misassembly
+370606	370711	1051964	1052069	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	96.23		True
+local misassembly
+371303	371374	1052614	1052685	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	98.61		True
+local misassembly
+371510	371582	1052814	1052886	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	98.63		True
+local misassembly
+372288	372359	1053620	1053691	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	93.06		True
+local misassembly
+372909	372999	1054229	1054319	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	97.8		True
+local misassembly
+373612	373691	1054948	1055027	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	95.0		True
+local misassembly
+375078	375162	1056445	1056529	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	94.12		True
+local misassembly
+377817	377892	1059246	1059321	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	98.68		True
+local misassembly
+378105	378188	1059530	1059613	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	92.86		True
+local misassembly
+378295	378364	1059711	1059780	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	97.14		True
+local misassembly
+379516	379601	1060879	1060964	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	96.51		True
+local misassembly
+381789	381884	1062981	1063076	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	97.92		True
+indel: indel (<= 5bp)
+381931	382028	1063119	1063216	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	96.94		True
+local misassembly
+383122	383205	1064307	1064390	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	91.67		True
+local misassembly
+383303	383400	1064493	1064590	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	98.98		True
+local misassembly
+383939	384014	1065122	1065197	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	96.05		True
+local misassembly
+384416	384487	1065573	1065644	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	100.0		True
+local misassembly
+386107	386192	1067197	1067282	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	96.51		True
+indel: indel (<= 5bp)
+386221	386292	1067308	1067379	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	95.83		True
+local misassembly
+389939	390029	1070969	1071059	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	97.8		True
+local misassembly
+392452	392516	1073508	1073572	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	96.92		True
+indel: indel (<= 5bp)
+392517	392607	1073575	1073665	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	95.6		True
+local misassembly
+394353	394422	1075439	1075508	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	92.86		True
+local misassembly
+397975	398048	1079035	1079108	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	94.59		True
+local misassembly
+398549	398616	1079606	1079673	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	94.12		True
+local misassembly
+401808	401872	1082862	1082926	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	92.31		True
+local misassembly
+403831	403912	1084900	1084981	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	98.78		True
+local misassembly
+404388	404455	1085466	1085533	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	95.59		True
+local misassembly
+406025	406103	1087004	1087082	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	97.47		True
+local misassembly
+408233	408311	1089106	1089184	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_1	98.73		True
+CONTIG	contig_1	1089918	correct
+1615565	1615633	235	167	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	95.65		True
+local misassembly
+1614555	1614642	1234	1147	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	95.45		True
+local misassembly
+1611091	1611163	4726	4654	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	94.52		True
+local misassembly
+1610039	1610120	5789	5708	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	92.68		True
+indel: indel (<= 5bp)
+1609929	1610002	5901	5828	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.65		True
+indel: indel (<= 5bp)
+1609853	1609926	5975	5902	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+local misassembly
+1609468	1609535	6351	6284	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	92.65		True
+local misassembly
+1608021	1608125	7785	7681	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.1		True
+local misassembly
+1605264	1605367	10438	10335	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.12		True
+local misassembly
+1604920	1604984	10770	10706	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.46		True
+local misassembly
+1604189	1604259	11481	11411	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+local misassembly
+1603879	1603950	11783	11712	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.22		True
+indel: indel (<= 5bp)
+1603801	1603875	11859	11785	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.67		True
+local misassembly
+1603597	1603673	12051	11975	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	93.51		True
+local misassembly
+1602487	1602586	13107	13008	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	96.0		True
+local misassembly
+1602258	1602333	13332	13257	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.68		True
+local misassembly
+1601828	1601911	13752	13669	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.81		True
+local misassembly
+1601288	1601357	14277	14208	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.14		True
+local misassembly
+1601009	1601117	14550	14442	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+local misassembly
+1599704	1599809	15805	15700	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	93.4		True
+indel: indel (<= 5bp)
+1599610	1599681	15900	15829	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+indel: indel (<= 5bp)
+1599474	1599543	16032	15963	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+indel: indel (<= 5bp)
+1599374	1599454	16130	16050	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	93.83		True
+local misassembly
+1598919	1599082	16571	16408	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	96.95		True
+local misassembly
+1598604	1598691	16870	16783	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	93.18		True
+local misassembly
+1598275	1598363	17195	17107	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.75		True
+local misassembly
+1597707	1597778	17744	17673	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.61		True
+indel: indel (<= 5bp)
+1597552	1597619	17897	17830	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+local misassembly
+1596842	1596926	18573	18489	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	95.29		True
+local misassembly
+1595080	1595156	20318	20242	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.7		True
+local misassembly
+1594255	1594321	21145	21079	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.51		True
+local misassembly
+1593109	1593180	22289	22218	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+local misassembly
+1592832	1592948	22557	22441	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	96.58		True
+local misassembly
+1591863	1591927	23514	23450	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.46		True
+indel: indel (<= 5bp)
+1591738	1591819	23638	23557	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.78		True
+local misassembly
+1591101	1591165	24274	24210	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+local misassembly
+1590663	1590775	24721	24609	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.23		True
+local misassembly
+1589881	1589966	25508	25423	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	96.51		True
+indel: indel (<= 5bp)
+1589755	1589820	25637	25572	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	93.94		True
+local misassembly
+1588754	1588869	26654	26539	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.28		True
+local misassembly
+1585919	1585988	29297	29228	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	95.71		True
+local misassembly
+1583850	1583927	31230	31153	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.72		True
+local misassembly
+1583522	1583601	31544	31465	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.75		True
+local misassembly
+1583282	1583347	31766	31701	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+local misassembly
+1582523	1582588	32477	32412	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+local misassembly
+1580268	1580334	34585	34519	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	92.54		True
+local misassembly
+1579789	1579863	35051	34977	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	96.0		True
+local misassembly
+1579450	1579519	35384	35315	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.57		True
+indel: indel (<= 5bp)
+1579307	1579402	35532	35437	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.96		True
+local misassembly
+1578809	1578876	36022	35955	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.06		True
+local misassembly
+1576501	1576621	38313	38193	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.52		True
+indel: indel (<= 5bp)
+1576353	1576427	38458	38384	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+local misassembly
+1575909	1576000	38906	38815	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	94.57		True
+local misassembly
+1575190	1575302	39638	39526	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	92.92		True
+local misassembly
+1574166	1574253	40656	40569	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.86		True
+local misassembly
+1573794	1573878	41023	40939	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.65		True
+indel: indel (<= 5bp)
+1573727	1573792	41089	41024	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	96.97		True
+indel: indel (<= 5bp)
+1573613	1573712	41204	41105	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	99.0		True
+local misassembly
+1573173	1573272	41646	41547	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	99.0		True
+local misassembly
+1573002	1573072	41817	41747	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	91.55		True
+local misassembly
+1572421	1572499	42410	42332	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.73		True
+local misassembly
+1571868	1571936	42958	42890	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.1		True
+indel: indel (> 5bp)
+1571714	1571791	43106	43029	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.44		True
+local misassembly
+1571131	1571244	43692	43579	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	94.74		True
+local misassembly
+1570893	1571001	43923	43815	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.25		True
+local misassembly
+1570370	1570439	44444	44375	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	94.29		True
+local misassembly
+1569895	1569961	44917	44851	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	94.03		True
+local misassembly
+1569497	1569565	45313	45245	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	95.65		True
+indel: indel (<= 5bp)
+1569351	1569424	45455	45382	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.65		True
+local misassembly
+1568927	1569019	45874	45782	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	96.77		True
+local misassembly
+1568069	1568192	46742	46619	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	95.97		True
+local misassembly
+1567005	1567077	47813	47741	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.63		True
+indel: stretch of mismatches
+1566856	1566985	47962	47833	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	93.08		True
+local misassembly
+1565448	1565515	49352	49285	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.53		True
+local misassembly
+1565071	1565211	49726	49586	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	95.04		True
+local misassembly
+1564785	1564875	50012	49922	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.9		True
+local misassembly
+1564230	1564407	50573	50396	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	96.07		True
+local misassembly
+1563390	1563458	51401	51333	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	94.2		True
+local misassembly
+1562929	1563015	51860	51774	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.85		True
+local misassembly
+1562610	1562675	52182	52117	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+indel: indel (<= 5bp)
+1562451	1562552	52339	52238	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	91.18		True
+local misassembly
+1561184	1561267	53611	53528	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.62		True
+local misassembly
+1558309	1558388	56463	56384	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+indel: indel (<= 5bp)
+1558228	1558308	56545	56465	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.77		True
+indel: indel (<= 5bp)
+1558047	1558195	56724	56576	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.99		True
+local misassembly
+1557827	1557905	56947	56869	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.47		True
+local misassembly
+1557352	1557416	57418	57354	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.46		True
+local misassembly
+1556829	1556899	57922	57852	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.18		True
+local misassembly
+1556271	1556343	58482	58410	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.63		True
+indel: indel (<= 5bp)
+1556141	1556238	58611	58514	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.96		True
+indel: indel (<= 5bp)
+1556018	1556123	58733	58628	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	96.23		True
+local misassembly
+1555794	1555862	58956	58888	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	92.75		True
+local misassembly
+1555583	1555648	59159	59094	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+indel: stretch of mismatches
+1555392	1555500	59350	59242	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	99.08		True
+indel: indel (> 5bp)
+1555241	1555321	59507	59427	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.53		True
+local misassembly
+1555053	1555122	59695	59626	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	95.71		True
+local misassembly
+1554817	1554901	59931	59847	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+local misassembly
+1554531	1554643	60209	60097	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	95.58		True
+local misassembly
+1553539	1553607	61195	61127	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	92.75		True
+local misassembly
+1553365	1553441	61369	61293	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+local misassembly
+1552281	1552378	62456	62359	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	95.92		True
+indel: indel (<= 5bp)
+1552128	1552203	62613	62538	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.68		True
+local misassembly
+1551781	1551877	62955	62859	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.94		True
+local misassembly
+1551529	1551594	63205	63140	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	95.45		True
+local misassembly
+1551186	1551275	63546	63457	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.78		True
+indel: indel (<= 5bp)
+1551073	1551145	63660	63588	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+local misassembly
+1550452	1550520	64279	64211	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.55		True
+local misassembly
+1549891	1549993	64839	64737	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	99.03		True
+local misassembly
+1547539	1547603	67122	67058	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	93.85		True
+local misassembly
+1546677	1546760	67922	67839	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.81		True
+local misassembly
+1543370	1543441	70987	70916	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.61		True
+local misassembly
+1542395	1542522	71896	71769	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.44		True
+local misassembly
+1541853	1541950	72413	72316	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	94.9		True
+local misassembly
+1541679	1541758	72583	72504	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.75		True
+indel: indel (> 5bp)
+1541538	1541609	72712	72641	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.61		True
+local misassembly
+1541296	1541387	72942	72851	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+local misassembly
+1540860	1540928	73358	73290	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	92.75		True
+local misassembly
+1539188	1539258	74919	74849	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.18		True
+local misassembly
+1538855	1538927	75240	75168	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	94.52		True
+indel: indel (<= 5bp)
+1538772	1538852	75321	75241	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.77		True
+local misassembly
+1537128	1537193	76843	76778	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	96.97		True
+local misassembly
+1533501	1533572	80091	80020	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.22		True
+local misassembly
+1530129	1530194	83125	83060	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	93.94		True
+local misassembly
+1526491	1526558	86579	86512	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.53		True
+local misassembly
+1526254	1526370	86809	86693	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	99.15		True
+local misassembly
+1526005	1526082	87052	86975	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.44		True
+indel: indel (<= 5bp)
+1525881	1525982	87173	87072	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.04		True
+local misassembly
+1525590	1525672	87456	87374	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.8		True
+local misassembly
+1525251	1525331	87780	87700	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+indel: indel (> 5bp)
+1525094	1525178	87930	87846	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.82		True
+indel: indel (<= 5bp)
+1524955	1525019	88066	88002	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+indel: indel (<= 5bp)
+1524819	1524897	88200	88122	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.47		True
+local misassembly
+1524055	1524145	88970	88880	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.9		True
+local misassembly
+1523591	1523722	89432	89301	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	99.24		True
+local misassembly
+1523112	1523197	89908	89823	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	95.35		True
+local misassembly
+1522851	1522969	90168	90050	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	99.16		True
+local misassembly
+1522513	1522601	90513	90425	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	96.63		True
+local misassembly
+1522090	1522160	90935	90865	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.18		True
+indel: indel (<= 5bp)
+1522012	1522082	91012	90942	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+local misassembly
+1519732	1519836	93266	93162	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	96.19		True
+indel: indel (<= 5bp)
+1519561	1519643	93434	93352	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.8		True
+local misassembly
+1519380	1519457	93618	93541	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.72		True
+local misassembly
+1518926	1519007	94077	93996	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.78		True
+local misassembly
+1518601	1518684	94401	94318	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.62		True
+local misassembly
+1518305	1518372	94693	94626	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.53		True
+local misassembly
+1517968	1518062	95021	94927	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	96.84		True
+local misassembly
+1516883	1516963	96113	96033	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	96.3		True
+local misassembly
+1516710	1516783	96284	96211	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	94.59		True
+indel: indel (<= 5bp)
+1516612	1516698	96378	96292	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.85		True
+indel: indel (<= 5bp)
+1516531	1516609	96457	96379	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+relocation, inconsistency = 1087
+1514407	1514472	97494	97429	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+local misassembly
+1513996	1514076	97888	97808	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.53		True
+local misassembly
+1513010	1513134	98817	98693	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.6		True
+indel: indel (<= 5bp)
+1512925	1513009	98903	98819	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	92.94		True
+local misassembly
+1512427	1512542	99414	99299	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	96.55		True
+indel: stretch of mismatches
+1512297	1512362	99544	99479	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	93.94		True
+local misassembly
+1512085	1512149	99758	99694	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	96.92		True
+local misassembly
+1511841	1511908	100000	99933	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.53		True
+local misassembly
+1510592	1510672	101168	101088	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.77		True
+local misassembly
+1508546	1508628	103050	102968	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+local misassembly
+1507766	1507836	103802	103732	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+local misassembly
+1506079	1506150	105362	105291	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	90.28		True
+local misassembly
+1505506	1505625	105912	105793	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	94.17		True
+local misassembly
+1505167	1505233	106235	106169	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	95.52		True
+local misassembly
+1504571	1504641	106793	106723	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.59		True
+local misassembly
+1503230	1503298	108068	108000	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.55		True
+local misassembly
+1502819	1502898	108455	108376	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+local misassembly
+1500861	1500945	110296	110212	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.65		True
+local misassembly
+1499385	1499519	111703	111569	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	96.3		True
+local misassembly
+1499191	1499256	111891	111826	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	95.45		True
+local misassembly
+1498707	1498803	112346	112250	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.94		True
+local misassembly
+1498461	1498535	112576	112502	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.33		True
+local misassembly
+1498130	1498196	112892	112826	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	95.52		True
+local misassembly
+1497263	1497351	113714	113626	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.88		True
+local misassembly
+1494718	1494824	116141	116035	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+local misassembly
+1493590	1493661	117210	117139	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	100.0		True
+local misassembly
+1097400	1491001	508179	119378	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	95.6		True
+local misassembly
+481805	1097578	1118055	508180	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	97.42		True
+local misassembly
+480248	480313	1119531	1119466	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	95.45		True
+local misassembly
+478853	478918	1120871	1120806	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_2	98.48		True
+CONTIG	contig_2	1121704	misassembled
+1458089	1590347	15357	145662	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_3	92.58		True
+CONTIG	contig_3	145832	correct
+2113451	2877493	757315	1	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	97.65		True
+local misassembly
+1873031	2112694	995438	758044	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	97.39		True
+relocation, inconsistency = -106238
+1978522	1979268	996167	995439	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	93.53		True
+relocation, inconsistency = 105466
+1570270	1873039	1295467	996184	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	96.91		True
+local misassembly
+1569752	1569878	1295855	1295729	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	93.7		True
+local misassembly
+1569379	1569466	1296210	1296123	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	98.86		True
+local misassembly
+1568503	1568604	1297014	1296913	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	100.0		True
+local misassembly
+1567097	1567161	1298336	1298272	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	95.38		True
+local misassembly
+1566809	1566880	1298611	1298540	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	98.61		True
+local misassembly
+1566428	1566495	1298976	1298909	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	98.53		True
+indel: indel (<= 5bp)
+1566356	1566426	1299047	1298977	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	100.0		True
+local misassembly
+1566113	1566250	1299281	1299144	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	99.28		True
+local misassembly
+1565272	1565337	1300067	1300002	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	98.48		True
+local misassembly
+1564910	1564996	1300404	1300318	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	100.0		True
+indel: indel (<= 5bp)
+1564791	1564896	1300519	1300414	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	100.0		True
+indel: indel (> 5bp)
+1564633	1564717	1300665	1300581	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	97.65		True
+local misassembly
+1564297	1564394	1300985	1300888	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	95.92		True
+local misassembly
+1564099	1564175	1301168	1301092	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	100.0		True
+indel: indel (<= 5bp)
+1564030	1564096	1301235	1301169	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	97.01		True
+local misassembly
+1562836	1562909	1302351	1302278	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	94.59		True
+local misassembly
+1561888	1561978	1303055	1302965	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	100.0		True
+local misassembly
+1561618	1561715	1303309	1303212	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	97.96		True
+local misassembly
+1561400	1561493	1303519	1303426	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	100.0		True
+indel: indel (> 5bp)
+1561300	1561373	1303612	1303539	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_4	100.0		True
+CONTIG	contig_4	1304399	misassembled
+3629301	3629365	15075	15011	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	100.0		True
+unknown
+3628921	3629025	15451	15347	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	95.24		True
+unknown
+3628025	3628126	16314	16213	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	98.04		True
+unknown
+3627415	3627485	16894	16824	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	95.77		True
+unknown
+3627052	3627124	17236	17164	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	90.41		True
+unknown
+3567519	3623685	75608	20539	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	94.61		True
+unknown
+3565285	3565456	77518	77347	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	99.42		True
+unknown
+3565138	3565205	77663	77596	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	98.53		True
+unknown
+3565009	3565115	77791	77685	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	100.0		True
+unknown
+3564837	3565007	77962	77792	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	100.0		True
+unknown
+3564588	3564836	78212	77964	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	98.39		True
+unknown
+3564450	3564552	78353	78251	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	96.12		True
+unknown
+3564234	3564306	78559	78487	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	100.0		True
+unknown
+3563801	3563904	78976	78873	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	100.0		True
+unknown
+3563614	3563700	79156	79070	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	98.85		True
+unknown
+3563254	3563326	79509	79437	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	98.63		True
+unknown
+3562850	3562923	79900	79827	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	100.0		True
+unknown
+3562425	3562495	80311	80241	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	97.18		True
+unknown
+3560374	3560454	82289	82209	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	97.53		True
+unknown
+3559812	3559876	82813	82749	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	100.0		True
+unknown
+3558888	3558954	83716	83650	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	100.0		True
+unknown
+3558250	3558317	84304	84237	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	98.53		True
+unknown
+3557223	3557289	85257	85191	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	95.52		True
+unknown
+3555748	3555814	86671	86605	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	97.01		True
+unknown
+3554150	3554215	88208	88143	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	96.97		True
+unknown
+3538494	3547858	102895	93663	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	92.61		True
+unknown
+1201124	1201193	105597	105666	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	98.57		True
+unknown
+1202922	1202988	107292	107358	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	94.03		True
+unknown
+1203985	1204059	108301	108375	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	98.67		True
+unknown
+1204159	1204226	108474	108541	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	97.06		True
+unknown
+1204308	1204388	108619	108699	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	96.3		True
+unknown
+1207946	1208024	112160	112238	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	94.94		True
+unknown
+1208291	1208357	112480	112546	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	98.51		True
+unknown
+1208664	1208764	112838	112938	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	98.02		True
+unknown
+1208965	1209034	113135	113204	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	98.57		True
+unknown
+1209564	1209635	113704	113775	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	100.0		True
+unknown
+1212216	1212287	116201	116272	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	97.22		True
+unknown
+1212730	1212795	116693	116758	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	100.0		True
+unknown
+1215483	1215555	119438	119510	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	95.89		True
+unknown
+1215695	1215761	119643	119709	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	98.51		True
+unknown
+1216373	1216479	120330	120436	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	100.0		True
+unknown
+1216591	1216678	120542	120629	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	98.86		True
+unknown
+1216689	1216760	120644	120715	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	100.0		True
+unknown
+1216855	1216941	120811	120897	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	97.7		True
+unknown
+1217645	1217735	121622	121712	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	98.9		True
+unknown
+1217829	1217916	121815	121902	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	96.59		True
+unknown
+1218084	1218150	122071	122137	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	95.52		True
+unknown
+1218314	1218408	122313	122407	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	97.89		True
+unknown
+1218844	1218908	122879	122943	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	98.46		True
+unknown
+1222038	1222112	126176	126250	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	98.67		True
+unknown
+1223798	1223866	127963	128031	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	97.1		True
+unknown
+1223978	1224043	128134	128199	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	95.45		True
+unknown
+1224351	1224436	128527	128612	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	98.84		True
+unknown
+1224679	1224796	128855	128972	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	94.92		True
+unknown
+1226433	1226720	130486	130769	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	90.54		True
+unknown
+1234899	1234974	139282	139357	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	94.74		True
+unknown
+1242019	1242083	146532	146596	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	100.0		True
+unknown
+1242359	1242423	146869	146933	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	95.38		True
+unknown
+1243031	1243100	147523	147592	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	100.0		True
+unknown
+1244059	1244137	148495	148573	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_5	98.73		True
+unknown
+CONTIG	contig_5	149185	mis_unaligned
+300198	502509	1	198366	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	94.95		True
+relocation, inconsistency = -167229
+338521	338595	201607	201681	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	100.0		True
+local misassembly
+339097	339172	202155	202230	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	97.37		True
+local misassembly
+340032	340106	203064	203138	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	94.67		True
+local misassembly
+340368	340445	203366	203443	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	100.0		True
+local misassembly
+340646	340721	203639	203714	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	93.42		True
+local misassembly
+346471	346543	208960	209032	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	95.89		True
+local misassembly
+346866	346934	209328	209396	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	95.65		True
+local misassembly
+348482	348554	210863	210935	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	98.63		True
+local misassembly
+348701	348811	211078	211188	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	95.5		True
+indel: indel (> 5bp)
+348826	348938	211194	211306	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	94.69		True
+local misassembly
+349049	349120	211413	211484	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	95.83		True
+local misassembly
+350307	350376	212596	212665	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	91.43		True
+local misassembly
+351108	351202	213366	213460	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	98.95		True
+local misassembly
+352621	352715	214826	214920	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	96.84		True
+local misassembly
+352867	352954	215065	215152	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	98.86		True
+local misassembly
+353874	353969	216017	216112	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	97.92		True
+local misassembly
+354691	354794	216800	216903	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	99.04		True
+local misassembly
+356260	356329	218255	218324	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	98.57		True
+local misassembly
+357447	357530	219394	219477	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	97.62		True
+local misassembly
+358122	358204	220048	220130	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	90.36		True
+local misassembly
+359988	360091	221920	222023	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	93.27		True
+local misassembly
+360294	360360	222236	222302	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	98.51		True
+local misassembly
+362642	362717	224595	224670	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	96.05		True
+local misassembly
+364492	364560	226426	226494	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	98.55		True
+indel: indel (<= 5bp)
+364636	364705	226573	226642	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_6	92.86		True
+CONTIG	contig_6	239746	misassembled
+3088437	3088526	855	944	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.78		True
+local misassembly
+3089242	3089364	1632	1754	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.56		True
+local misassembly
+3090100	3090166	2423	2489	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	95.52		True
+indel: indel (<= 5bp)
+3090169	3090275	2490	2596	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	99.07		True
+local misassembly
+3091616	3091735	3850	3969	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.5		True
+local misassembly
+3091946	3092090	4172	4316	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.62		True
+local misassembly
+3093356	3093477	5511	5632	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	95.9		True
+indel: indel (<= 5bp)
+3093489	3093573	5639	5723	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.65		True
+local misassembly
+3094508	3094593	6618	6703	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	96.51		True
+local misassembly
+3094722	3094787	6828	6893	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	96.97		True
+local misassembly
+3096235	3096309	8278	8352	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	96.0		True
+local misassembly
+3097483	3097557	9466	9540	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.67		True
+local misassembly
+3097725	3097836	9698	9809	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.21		True
+local misassembly
+3098455	3098541	10391	10477	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	91.95		True
+local misassembly
+3099973	3100042	11851	11920	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.57		True
+indel: indel (<= 5bp)
+3100116	3100240	11992	12116	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.6		True
+indel: indel (<= 5bp)
+3100243	3100324	12117	12198	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.78		True
+local misassembly
+3102708	3102787	14454	14533	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	92.5		True
+indel: indel (<= 5bp)
+3102788	3102857	14535	14604	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.57		True
+indel: indel (<= 5bp)
+3102898	3102982	14642	14726	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	96.47		True
+indel: indel (<= 5bp)
+3103054	3103129	14796	14871	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	94.74		True
+local misassembly
+3103239	3103308	14970	15039	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.14		True
+local misassembly
+3103520	3103599	15237	15316	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	96.25		True
+local misassembly
+3103820	3103905	15527	15612	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	96.51		True
+local misassembly
+3105021	3105088	16649	16716	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	92.65		True
+local misassembly
+3106342	3106410	17898	17966	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	95.65		True
+local misassembly
+3106795	3106948	18330	18483	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3107343	3107488	18845	18990	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.63		True
+local misassembly
+3108257	3108325	19708	19776	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.55		True
+local misassembly
+3108604	3108679	20038	20113	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.68		True
+local misassembly
+3108819	3108890	20238	20309	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3109032	3109103	20442	20513	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	95.83		True
+local misassembly
+3109965	3110038	21335	21408	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+indel: indel (<= 5bp)
+3110058	3110200	21426	21568	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.2		True
+indel: indel (<= 5bp)
+3110256	3110320	21623	21687	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3111190	3111280	22492	22582	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	91.21		True
+indel: indel (<= 5bp)
+3111318	3111397	22623	22702	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.75		True
+local misassembly
+3111906	3111977	23182	23253	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3112158	3112246	23424	23512	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	95.51		True
+local misassembly
+3116209	3116307	27185	27283	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	94.95		True
+indel: indel (> 5bp)
+3116331	3116406	27299	27374	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3116865	3116935	27802	27872	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.59		True
+local misassembly
+3118021	3118093	28899	28971	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3119619	3119685	30417	30483	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.51		True
+local misassembly
+3120982	3121048	31702	31768	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	94.03		True
+local misassembly
+3122549	3122624	33190	33265	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	93.42		True
+local misassembly
+3122721	3122823	33360	33462	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.09		True
+local misassembly
+3122973	3123070	33610	33707	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	95.92		True
+local misassembly
+3123588	3123688	34224	34324	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.02		True
+indel: indel (<= 5bp)
+3123721	3123853	34356	34488	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.5		True
+local misassembly
+3124048	3124138	34680	34770	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	96.7		True
+indel: indel (<= 5bp)
+3124212	3124283	34840	34911	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+indel: indel (<= 5bp)
+3124344	3124413	34969	35038	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.14		True
+local misassembly
+3124559	3124668	35190	35299	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	90.0		True
+local misassembly
+3125292	3125362	35924	35994	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	94.37		True
+indel: indel (<= 5bp)
+3125389	3125475	36025	36111	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	95.4		True
+local misassembly
+3125580	3125657	36216	36293	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.44		True
+indel: indel (<= 5bp)
+3125659	3125728	36294	36363	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.14		True
+indel: indel (<= 5bp)
+3125730	3125816	36364	36450	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	96.55		True
+local misassembly
+3125953	3126019	36590	36656	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.01		True
+local misassembly
+3127121	3127188	37745	37812	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	95.59		True
+local misassembly
+3127313	3127395	37938	38020	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.59		True
+indel: indel (<= 5bp)
+3127439	3127516	38066	38143	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.72		True
+indel: indel (<= 5bp)
+3127517	3127589	38145	38217	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3127837	3127950	38466	38579	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	93.86		True
+local misassembly
+3128312	3128379	38936	39003	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3128585	3128653	39208	39276	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.1		True
+indel: stretch of mismatches
+3128706	3128780	39329	39403	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3128868	3128935	39493	39560	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	91.18		True
+local misassembly
+3129308	3129390	39936	40018	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.8		True
+indel: stretch of mismatches
+3129437	3129514	40065	40142	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.44		True
+local misassembly
+3129639	3129751	40263	40375	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	99.12		True
+local misassembly
+3130274	3130339	40905	40970	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.48		True
+local misassembly
+3130526	3130619	41156	41249	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	94.68		True
+local misassembly
+3131527	3131605	42115	42193	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.73		True
+indel: indel (> 5bp)
+3131693	3131768	42275	42350	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3132383	3132490	42959	43066	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+indel: indel (> 5bp)
+3132559	3132660	43126	43227	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3132947	3133039	43505	43597	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3133264	3133362	43811	43909	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.98		True
+indel: indel (<= 5bp)
+3133376	3133470	43924	44018	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3133798	3133869	44333	44404	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.61		True
+indel: indel (<= 5bp)
+3133916	3134008	44448	44540	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3134523	3134635	45046	45158	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.35		True
+indel: indel (<= 5bp)
+3134673	3134743	45197	45267	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.59		True
+indel: indel (<= 5bp)
+3134745	3134842	45268	45365	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.98		True
+local misassembly
+3135075	3135157	45586	45668	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.8		True
+local misassembly
+3135329	3135400	45833	45904	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.61		True
+local misassembly
+3136078	3136182	46548	46652	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.1		True
+local misassembly
+3136566	3136643	47035	47112	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3136907	3136976	47366	47435	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.57		True
+indel: indel (<= 5bp)
+3137063	3137198	47517	47652	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	99.26		True
+local misassembly
+3137405	3137474	47853	47922	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.57		True
+local misassembly
+3137665	3137730	48100	48165	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3137903	3138061	48327	48485	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	99.37		True
+indel: indel (<= 5bp)
+3138075	3138169	48496	48590	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.95		True
+indel: indel (<= 5bp)
+3138180	3138264	48598	48682	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	96.47		True
+indel: indel (> 5bp)
+3138329	3138415	48736	48822	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.85		True
+local misassembly
+3138521	3138603	48912	48994	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	96.39		True
+local misassembly
+3138856	3138945	49237	49326	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.78		True
+local misassembly
+3139300	3139434	49675	49809	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.78		True
+local misassembly
+3140330	3140414	50674	50758	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	95.29		True
+local misassembly
+3140850	3140930	51181	51261	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.53		True
+local misassembly
+3141298	3141362	51620	51684	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3141507	3141615	51821	51929	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.17		True
+local misassembly
+3141777	3141850	52086	52159	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.65		True
+indel: indel (<= 5bp)
+3141871	3141953	52178	52260	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.8		True
+local misassembly
+3142133	3142236	52429	52532	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	99.04		True
+local misassembly
+3143399	3143477	53660	53738	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3143868	3143935	54122	54189	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.53		True
+local misassembly
+3144080	3144146	54333	54399	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+indel: indel (<= 5bp)
+3144192	3144333	54443	54584	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	99.3		True
+indel: indel (<= 5bp)
+3144337	3144421	54586	54670	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.82		True
+local misassembly
+3144756	3144896	55007	55147	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	95.74		True
+local misassembly
+3145771	3145846	56017	56092	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	96.05		True
+local misassembly
+3147150	3147251	57401	57502	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.04		True
+indel: indel (<= 5bp)
+3147254	3147354	57503	57603	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+indel: indel (<= 5bp)
+3147369	3147450	57616	57697	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3147673	3147761	57908	57996	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3148016	3148114	58237	58335	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.99		True
+indel: indel (<= 5bp)
+3148118	3148184	58336	58402	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+indel: indel (<= 5bp)
+3148203	3148273	58419	58489	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3149276	3149344	59514	59582	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3149516	3149593	59755	59832	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	94.87		True
+local misassembly
+3150271	3150345	60494	60568	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.67		True
+local misassembly
+3151111	3151203	61332	61424	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.92		True
+local misassembly
+3151660	3151727	61871	61938	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.53		True
+local misassembly
+3152587	3152664	62836	62913	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.72		True
+local misassembly
+3152874	3152966	63115	63207	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3153546	3153625	63774	63853	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3154042	3154125	64254	64337	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.81		True
+local misassembly
+3154481	3154631	64660	64810	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.68		True
+local misassembly
+3154911	3155002	65076	65167	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.83		True
+indel: indel (<= 5bp)
+3155050	3155125	65213	65288	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.68		True
+local misassembly
+3155480	3155547	65634	65701	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3156067	3156134	66196	66263	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	95.59		True
+local misassembly
+3157212	3157308	67288	67384	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3158679	3158753	68697	68771	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	96.0		True
+local misassembly
+3160752	3160838	70631	70717	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	90.8		True
+local misassembly
+3161194	3161260	71056	71122	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.01		True
+indel: indel (<= 5bp)
+3161266	3161330	71126	71190	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3162342	3162406	72155	72219	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3162606	3162682	72399	72475	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+indel: stretch of mismatches
+3162726	3162796	72519	72589	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.59		True
+local misassembly
+3162917	3162996	72706	72785	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3163179	3163282	72959	73062	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3164141	3164219	73886	73964	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	96.2		True
+local misassembly
+3164359	3164430	74095	74166	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+indel: indel (<= 5bp)
+3164479	3164604	74213	74338	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.41		True
+local misassembly
+3164775	3164869	74497	74591	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	98.95		True
+local misassembly
+3165345	3165463	75046	75164	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.48		True
+local misassembly
+3165692	3165756	75378	75442	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3167407	3167474	77101	77168	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	95.59		True
+local misassembly
+3168686	3168757	78347	78418	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	91.67		True
+local misassembly
+3174152	3174227	83787	83862	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	93.42		True
+local misassembly
+3183956	3184032	92657	92733	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	96.1		True
+relocation, inconsistency = 782007
+3979368	3979464	106158	106062	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	94.85		True
+indel: stretch of mismatches
+3979250	3979334	106276	106192	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.65		True
+local misassembly
+3978876	3978943	106643	106576	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+local misassembly
+3977287	3977355	108130	108062	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	94.2		True
+local misassembly
+3973902	3974092	111210	111026	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	90.82		True
+local misassembly
+3590161	3972745	489465	112258	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	95.47		True
+local misassembly
+3587784	3587859	491678	491603	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	96.05		True
+local misassembly
+3585841	3585913	493510	493438	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	100.0		True
+relocation, inconsistency = 1327
+3572113	3572178	505911	505846	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	92.42		True
+local misassembly
+3564549	3564621	513158	513086	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	94.52		True
+local misassembly
+3501941	3560498	575549	517213	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	91.03		True
+local misassembly
+2841282	3501002	1228877	576014	NC_000913.3_Escherichia_coli_str._K_12_substr._MG1655__complete_genome	contig_7	97.2		True
+CONTIG	contig_7	1229610	misassembled

@@ -1,0 +1,40 @@
+canu:
+  CPU usage_mqc-generalstats-Wall_time: '6:10:05'
+  CPU usage_mqc-generalstats-peak_CPU_usage_PSS_MB: 13089.12
+  QUAST_mqc-generalstats-Genome_fraction: 65.486
+  QUAST_mqc-generalstats-N50: 514572.0
+  QUAST_mqc-generalstats-Total_length: 2937032.0
+  QUAST_mqc-generalstats-indels_per_100_kbp: 2645.96
+  QUAST_mqc-generalstats-mismatches_per_100_kbp: 448.97
+flye:
+  CPU usage_mqc-generalstats-Wall_time: 0:08:18
+  CPU usage_mqc-generalstats-peak_CPU_usage_PSS_MB: 5221.1
+  QUAST_mqc-generalstats-Genome_fraction: 99.84
+  QUAST_mqc-generalstats-N50: 1121704.0
+  QUAST_mqc-generalstats-Total_length: 5280394.0
+  QUAST_mqc-generalstats-indels_per_100_kbp: 2036.96
+  QUAST_mqc-generalstats-mismatches_per_100_kbp: 1121.85
+minimap2_miniasm:
+  CPU usage_mqc-generalstats-Wall_time: 0:00:08
+  CPU usage_mqc-generalstats-peak_CPU_usage_PSS_MB: 596.81
+  QUAST_mqc-generalstats-Genome_fraction: 4.07
+  QUAST_mqc-generalstats-N50: 303115.0
+  QUAST_mqc-generalstats-Total_length: 2452059.0
+  QUAST_mqc-generalstats-indels_per_100_kbp: 5.29
+  QUAST_mqc-generalstats-mismatches_per_100_kbp: 2767.01
+minimap2_miniasm_raconX2:
+  CPU usage_mqc-generalstats-Wall_time: 0:00:59
+  CPU usage_mqc-generalstats-peak_CPU_usage_PSS_MB: 625.24
+  QUAST_mqc-generalstats-Genome_fraction: 56.234
+  QUAST_mqc-generalstats-N50: 316975.0
+  QUAST_mqc-generalstats-Total_length: 2565554.0
+  QUAST_mqc-generalstats-indels_per_100_kbp: 1534.62
+  QUAST_mqc-generalstats-mismatches_per_100_kbp: 467.59
+smartdenovo:
+  CPU usage_mqc-generalstats-Wall_time: 0:04:53
+  CPU usage_mqc-generalstats-peak_CPU_usage_PSS_MB: 364.76
+  QUAST_mqc-generalstats-Genome_fraction: 5.532
+  QUAST_mqc-generalstats-N50: 458062.0
+  QUAST_mqc-generalstats-Total_length: 2864657.0
+  QUAST_mqc-generalstats-indels_per_100_kbp: 0.0
+  QUAST_mqc-generalstats-mismatches_per_100_kbp: 2748.35
