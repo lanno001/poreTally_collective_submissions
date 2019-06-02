@@ -1,0 +1,12 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+574590	575783	150040	148878	NC_000913.3_Escherichia_coli_str._K-12_substr._MG1655__complete_genome	utg000001l	90.92		True
+CONTIG	utg000001l	1174519	correct_unaligned
+CONTIG	utg000002l	307611	unaligned
+CONTIG	utg000003l	187752	unaligned
+780554	780729	131788	131615	NC_000913.3_Escherichia_coli_str._K-12_substr._MG1655__complete_genome	utg000004l	90.96		True
+CONTIG	utg000004l	132851	correct_unaligned
+CONTIG	utg000005l	141950	unaligned
+CONTIG	utg000006l	248987	unaligned
+391703	392973	65800	64574	NC_000913.3_Escherichia_coli_str._K-12_substr._MG1655__complete_genome	utg000007l	91.38		True
+CONTIG	utg000007l	138817	correct_unaligned
+CONTIG	utg000008l	125902	unaligned

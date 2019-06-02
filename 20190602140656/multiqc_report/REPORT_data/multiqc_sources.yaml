@@ -1,0 +1,7 @@
+Jellyfish:
+  all_sections:
+    minimap2_miniasm.count: /local_data/poreTally_dockertest_20190602/analysis/summary/jellyfish/minimap2_miniasm.count
+    reference.count: /local_data/poreTally_dockertest_20190602/analysis/summary/jellyfish/reference.count
+QUAST:
+  all_sections:
+    minimap2_miniasm: /local_data/poreTally_dockertest_20190602/analysis/summary/quast/report.tsv
